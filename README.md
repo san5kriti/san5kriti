@@ -32,4 +32,4 @@
 
 ---
 
-✨ _Fun Fact:_ I can talk about AI or space for hours while sipping on ☕.
+
