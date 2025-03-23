@@ -3,7 +3,7 @@
     <td>
       <h1 align="left">Hey there, I'm Sanskriti Shelke 🚀</h1>
       <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20Space%20Wanderer;Podcaster%20%7C%20Storyteller%20%7C%20AI%20for%20Space%20Dreamer&width=450&color=58A6FF&vCenter=true&size=20" />
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=58A6FF&vCenter=true&size=20" />
       </p>
     </td>
     <td>
