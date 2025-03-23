@@ -1,10 +1,17 @@
-<h1 align="center">Hey there, I'm Sanskriti Shelke 🚀</h1>
+<table>
+  <tr>
+    <td>
+      <h1 align="left">Hey there, I'm Sanskriti Shelke 🚀</h1>
+      <p align="left">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20Space%20Wanderer;Podcaster%20%7C%20Storyteller%20%7C%20AI%20for%20Space%20Dreamer&width=450&color=58A6FF&vCenter=true&size=20" />
+      </p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/425e8bf1-ca73-440f-840e-708169df7d77" width="200" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20Space%20Wanderer;Podcaster%20%7C%20Storyteller%20%7C%20AI%20for%20Space%20Dreamer&center=true&width=700&height=40&color=58A6FF&vCenter=true&size=22" />
-</p>
-
----
 
 ## 💫 About Me
 
@@ -73,16 +80,6 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ---
 
-## ⚡ GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=san5kriti&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=san5kriti&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san5kriti&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### _“Code like a scientist, build like an artist, dream like a pioneer.”_ 🚀
 
 
