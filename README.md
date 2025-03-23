@@ -30,7 +30,7 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ## 🚀 What I Do
 
-- 🧩 **AI Developer:** From classical ML models to cutting-edge deep learning & reinforcement learning agents.
+- 🧩 **Aspiring AI Developer:** From classical ML models to cutting-edge deep learning & reinforcement learning agents.
 - ⚛️ **Quantum Explorer:** Simulating quantum circuits & algorithms, blending classical and quantum techniques for NP-hard problems.
 - 🛠️ **Full-Stack Developer:** Crafting responsive UIs & scalable backends using modern JavaScript stacks.
 - 🎙️ **Podcast Host:** On _Metamorphoses_, I break down how science, philosophy, and tech shape our world.
@@ -56,14 +56,14 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 - 🚀 **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
 - 🌌 **Orbitron**: An interactive space exploration app blending data visualization & astrophysics education
 - 🧠 **Studique AI Coach**: A smart micro-coach designed to help students boost focus & optimize study routines
-- 🎙️ **Releasing Season 2 of _Metamorphoses Podcast_**  
-- 🪐 **Researching Quantum-Classical hybrids** for solving the Traveling Salesman Problem
+- 🎙️ **Releasing episode 2 of _Metamorphoses Podcast_**  
+- 🪐 **Researching Quantum-Classical hybrids** for solving the NP-Hard problems
 
 ---
 
 ## ✨ Fun Facts
 
-- ☕ **Team coffee** (but occasionally betrays for matcha lattes)
+- ☕ **Team coffee** (but occasionally betrays for vanilla milkshakes)
 - 🛸 Dreams of working on **AI for space exploration**
 - 🎥 Loves sci-fi films, black & white photography, and glitch art
 - 📚 Nerds out over ancient mythology & futuristic tech equally
