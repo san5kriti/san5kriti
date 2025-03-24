@@ -12,6 +12,7 @@
   </tr>
 </table>
 
+---
 
 ## 💫 About Me
 
@@ -75,11 +76,6 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskritishelke/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/san5kriti)
-[![Podcast](https://img.shields.io/badge/-Metamorphoses%20Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/5FbN4lYxZUKf6oTQiBFSe3)
-[![Portfolio](https://img.shields.io/badge/-sanskritishelke.com-141414?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sanskritishelke.com/)
-
----
-
-
+[![Personal Website](https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=planet&logoColor=white)](https://sanskritishelke.com/)
 
 
