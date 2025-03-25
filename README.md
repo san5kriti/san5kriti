@@ -1,18 +1,15 @@
-<table>
-  <tr>
-    <td>
-      <h1 align="left">Hey there, I'm Sanskriti Shelke 🚀</h1>
-      <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=58A6FF&vCenter=true&size=20" />
-      </p>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/425e8bf1-ca73-440f-840e-708169df7d77" width="200" />
-    </td>
-  </tr>
-</table>
 
----
+
+<h1 align="center">Hey there, I'm Sanskriti Shelke 🚀</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=58A6FF&vCenter=true&size=20" />
+</p>
+ <td>
+      <p align="right">
+      <img src="https://github.com/user-attachments/assets/425e8bf1-ca73-440f-840e-708169df7d77" width="200" />
+</td>
+
+
 
 ## 💫 About Me
 
