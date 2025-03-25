@@ -6,7 +6,7 @@
 </p>
  <td>
       <p align="right">
-      <img src="https://github.com/user-attachments/assets/425e8bf1-ca73-440f-840e-708169df7d77" width="200" />
+      <img src="https://github.com/user-attachments/assets/425e8bf1-ca73-440f-840e-708169df7d77" width="100" />
 </td>
 
 
