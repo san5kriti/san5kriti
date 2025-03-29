@@ -11,13 +11,13 @@
 
 
 
-## 💫 About Me
+## About Me
 
-I’m an AI & Computer Science undergrad at the University of Birmingham, passionate about building technology that merges science with creativity. My work spans **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing**, where I explore how computation shapes the universe — and how it can empower humans. 🌍
+I’m an AI & Computer Science undergrad at the University of Birmingham, passionate about building technology that merges science with creativity. My work spans **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing**, where I explore how computation shapes the universe and how it can empower humans. 🌍
 
 I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, and **intelligent systems**. Whether it's crafting software solutions or narrating tales through podcasts, my work blends technical depth with artistic expression.
 
-🧠 **Core passions:**  
+🧠 **Core passions!**  
 - Hybrid AI-Quantum Systems  
 - Space Tech & Astrophysics  
 - Applied AI in Scientific Discovery  
@@ -26,13 +26,13 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ---
 
-## 🚀 What I Do
+##  What I Do or at least try to 👩🏼‍🚀
 
-- 🧩 **Aspiring AI Developer:** From classical ML models to cutting-edge deep learning & reinforcement learning agents.
-- ⚛️ **Quantum Explorer:** Simulating quantum circuits & algorithms, blending classical and quantum techniques for NP-hard problems.
+- 🦾 **Aspiring AI Developer:** From classical ML models to cutting-edge deep learning & reinforcement learning agents.
+- 🥼 **Quantum Explorer:** Simulating quantum circuits & algorithms, blending classical and quantum techniques for NP-hard problems.
 - 🛠️ **Full-Stack Developer:** Crafting responsive UIs & scalable backends using modern JavaScript stacks.
 - 🎙️ **Podcast Host:** On _Metamorphoses_, I break down how science, philosophy, and tech shape our world.
-- ✍️ **Science Writer:** Passionate about making tech & science accessible, clear, and captivating.
+- 🖋️ **Science Writer:** Passionate about making tech & science accessible, clear, and captivating.
 
 ---
 
@@ -49,9 +49,10 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ---
 
-## 🎯 Current Quests
+## Current Quests (I'll probably finish them by late august, hopefully!)
 
-- 🚀 **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
+- 📖 **DEPOLOYED Virtual Library**: A calm study space with incorporated ambience sounds, task tracker and pomodoro study method! 
+- 🏛️ **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
 - 🌌 **Orbitron**: An interactive space exploration app blending data visualization & astrophysics education
 - 🧠 **Studique AI Coach**: A smart micro-coach designed to help students boost focus & optimize study routines
 - 🎙️ **Releasing episode 2 of _Metamorphoses Podcast_**  
@@ -59,17 +60,17 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ---
 
-## ✨ Fun Facts
+## Fun Facts
 
-- ☕ **Team coffee** (but occasionally betrays for vanilla milkshakes)
+- ☕️ **Team coffee** (but occasionally betrays for chai)
 - 🛸 Dreams of working on **AI for space exploration**
-- 🎥 Loves sci-fi films, black & white photography, and glitch art
+- 🎥 Loves sci-fi films, homeric greek, niche literature (nothing gives you an exsistential crisis like good old cope of kafka)
 - 📚 Nerds out over ancient mythology & futuristic tech equally
-- 🔭 Secretly building a **digital space library** as a side passion project
+- 💁🏻‍♀️ My other hobbies include kathak and carnatic vocal since I was four
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with me, wanna work on a proj together or just chat about tech? 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskritishelke/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/san5kriti)
