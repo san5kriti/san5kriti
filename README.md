@@ -66,7 +66,7 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 - 🛸 Dreams of working on **AI for space exploration**
 - 🎥 Loves sci-fi films, homeric greek, niche literature (nothing gives you an exsistential crisis like good old cope of kafka)
 - 📚 Nerds out over ancient mythology & futuristic tech equally
-- 💁🏻‍♀️ My other hobbies include kathak and carnatic vocal since I was four
+- 💁🏻‍♀️ My other hobbies include kathak and I've been pursuing carnatic vocal since I was four
 
 ---
 
