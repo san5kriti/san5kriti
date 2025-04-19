@@ -29,7 +29,7 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 ##  What I Do or at least try to 👩🏼‍🚀
 
 - 🦾 **Aspiring AI Developer:** From classical ML models to cutting-edge deep learning & reinforcement learning agents.
-- 🥼 **Quantum Explorer:** Simulating quantum circuits & algorithms, blending classical and quantum techniques for NP-hard problems.
+- 🥼 **Quantum Explorer:** Simulating quantum circuits & algorithms, blending classical and quantum techniques for NP-hard problems. -- Dropping new paper on meta-hybridisation for quantum-inspired and classical optimization tech!!
 - 🛠️ **Full-Stack Developer:** Crafting responsive UIs & scalable backends using modern JavaScript stacks.
 - 🎙️ **Podcast Host:** On _Metamorphoses_, I break down how science, philosophy, and tech shape our world.
 - 🖋️ **Science Writer:** Passionate about making tech & science accessible, clear, and captivating.
