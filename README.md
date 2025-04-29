@@ -1,13 +1,14 @@
 
 
-<h1 align="center">Hey there, I'm Sanskriti Shelke 🚀</h1>
+<h1 align="center">Hey there, I'm Sanskriti Shelke 🧬🎀🔭💗☕️ </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=58A6FF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=de7fa1&vCenter=true&size=20" />
 </p>
  <td>
       <p align="right">
-      <img src="https://github.com/user-attachments/assets/425e8bf1-ca73-440f-840e-708169df7d77" width="100" />
+      <img src="https://github.com/user-attachments/assets/6fc735a9-b3f0-4892-bee5-66f87461c0b7" width="200" />
 </td>
+
 
 
 
@@ -51,7 +52,8 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ## Current Quests (I'll probably finish them by late august, hopefully!)
 
-- 📖 **DEPLOYED Virtual Library**: A calm study space with incorporated ambience sounds, task tracker and pomodoro study method! 
+- 📖 **DEPLOYED Virtual Library**: A calm study space with incorporated ambience sounds, task tracker and pomodoro study method!
+- 🎀 **DEPLOYED Esoteric Daughter**: A personal blog for my 4am ramblings 
 - 🏛️ **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
 - 🌌 **Orbitron**: An interactive space exploration app blending data visualization & astrophysics education
 - 🧠 **Studique AI Coach**: A smart micro-coach designed to help students boost focus & optimize study routines
