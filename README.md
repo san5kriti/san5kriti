@@ -53,7 +53,6 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 ## Current Quests (I'll probably finish them by late august, hopefully!)
 
 - 📖 **DEPLOYED Virtual Library**: A calm study space with incorporated ambience sounds, task tracker and pomodoro study method!
-- 🎀 **DEPLOYED Esoteric Daughter**: A personal blog for my 4am ramblings 
 - 🏛️ **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
 - 🌌 **Orbitron**: An interactive space exploration app blending data visualization & astrophysics education
 - 🧠 **Studique AI Coach**: A smart micro-coach designed to help students boost focus & optimize study routines
