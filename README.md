@@ -56,6 +56,7 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 - 🏛️ **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
 - 🌌 **Orbitron**: An interactive space exploration app blending data visualization & astrophysics education
 - 🧠 **Studique AI Coach**: A smart micro-coach designed to help students boost focus & optimize study routines
+- 🔖 **Reading Ulysses** 900 pages of epiphanies, greek myth analgoies and layered paradoxes? I'm so in.
 - 🎙️ **Releasing episode 2 of _Metamorphoses Podcast_**  
 - 🪐 **Researching Quantum-Classical hybrids** for solving the NP-Hard problems
 
