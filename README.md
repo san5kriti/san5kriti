@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there, I'm Sanskriti Shelke 🧬🎀🔭💗☕️ </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=de7fa1&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20ML%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=de7fa1&vCenter=true&size=20" />
 </p>
  <td>
       <p align="right">
