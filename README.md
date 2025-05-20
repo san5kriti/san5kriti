@@ -66,13 +66,13 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 - ☕️ **Team Americano** 
 - 🛸 Dreams of working on **AI for space exploration**
-- 🎥 Loves sci-fi films, homeric greek, niche literature (nothing gives you an exsistential crisis like good old copy of kafka)
-- 📚 Nerds out over ancient mythology & futuristic tech equally
-- 💁🏻‍♀️ My other hobbies include kathak and I've been pursuing carnatic vocal since I was four
+- 🧬 Loves sci-fi films, homeric greek, niche literature (nothing gives you an exsistential crisis like good old copy of kafka)
+- 🍓 Nerds out over ancient mythology & futuristic tech equally
+- 🪷 My other hobbies include kathak and I've been pursuing carnatic vocal since I was four
 
 ---
 
-## 🌐 Connect with me, wanna work on a proj together or just chat about tech? 
+## 💖 Connect with me 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskritishelke/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/san5kriti)
