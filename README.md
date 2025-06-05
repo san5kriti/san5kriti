@@ -64,7 +64,7 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ## Fun Facts
 
-- ☕️ **Team Americano** 
+- 🍵 **Team Matcha** 
 - 🛸 Dreams of working on **AI for space exploration**
 - 🧬 Loves sci-fi films, homeric greek, niche literature (nothing gives you an exsistential crisis like good old copy of kafka)
 - 🍓 Nerds out over ancient mythology & futuristic tech equally
