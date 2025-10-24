@@ -50,7 +50,7 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ---
 
-## Current Quests (I'll probably finish them by late august, hopefully!)
+## Current Quests 
 
 - 📖 **DEPLOYED Virtual Library**: A calm study space with incorporated ambience sounds, task tracker and pomodoro study method!
 - 🏛️ **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
