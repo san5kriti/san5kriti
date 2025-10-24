@@ -14,7 +14,7 @@
 
 ## About Me
 
-I’m an AI & Computer Science undergrad at the University of Birmingham, passionate about building technology that merges science with creativity. My work spans **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing**, where I explore how computation shapes the universe and how it can empower humans. 🌍
+I’m an AI & Computer Science graduate from the University of Birmingham and am currently pursuing my masters in advanced computing (AI specialisation) at Durham University. I am passionate about building technology that merges science with creativity. My work spans **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing**, where I explore how computation shapes the universe and how it can empower humans. 🌍
 
 I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, and **intelligent systems**. Whether it's crafting software solutions or narrating tales through podcasts, my work blends technical depth with artistic expression.
 
@@ -55,10 +55,10 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 - 📖 **DEPLOYED Virtual Library**: A calm study space with incorporated ambience sounds, task tracker and pomodoro study method!
 - 🏛️ **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
 - 🌌 **Orbitron**: An interactive space exploration app blending data visualization & astrophysics education
-- 🧠 **Studique AI Coach**: A smart micro-coach designed to help students boost focus & optimize study routines
+- 🧠 **DEPLOYED MemoryMate**: A smart micro-coach designed to help students boost focus & optimize study routines
 - 🔖 **Reading Ulysses** 900 pages of epiphanies, greek myth analogies and layered paradoxes? I'm so in.
 - 🎙️ **Releasing episode 2 of _Metamorphoses Podcast_**  
-- 🪐 **Researching Quantum-Classical hybrids** for solving the NP-Hard problems
+- 🪐 **Deployed Paper on Novel Quantum-Classical hybrids** for solving the NP-Hard problem, Travelling Salesman Problem 
 
 ---
 
