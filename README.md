@@ -18,7 +18,7 @@ I’m an AI & Computer Science graduate from the University of Birmingham and am
 
 I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, and **intelligent systems**. Whether it's crafting software solutions or narrating tales through podcasts, my work blends technical depth with artistic expression.
 
-🧠 **Core passions!**  
+🧠 **Core passions**  
 - Hybrid AI-Quantum Systems  
 - Space Tech & Astrophysics  
 - Applied AI in Scientific Discovery  
@@ -27,7 +27,7 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 
 ---
 
-##  What I Do or at least try to 👩🏼‍🚀
+##  What I do 👩🏼‍🚀
 
 - 🦾 **Aspiring AI Developer:** From classical ML models to cutting-edge deep learning & reinforcement learning agents.
 - 🥼 **Quantum Explorer:** Simulating quantum circuits & algorithms, blending classical and quantum techniques for NP-hard problems. -- Dropping new paper on meta-hybridisation for quantum-inspired and classical optimization tech!!
@@ -58,21 +58,11 @@ I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, an
 - 🧠 **DEPLOYED MemoryMate**: A smart micro-coach designed to help students boost focus & optimize study routines
 - 🔖 **Reading Ulysses** 900 pages of epiphanies, greek myth analogies and layered paradoxes? I'm so in.
 - 🎙️ **Releasing episode 2 of _Metamorphoses Podcast_**  
-- 🪐 **Deployed Paper on Novel Quantum-Classical hybrids** for solving the NP-Hard problem, Travelling Salesman Problem 
+- 🪐 **Deploying Paper on Novel Quantum-Classical hybrids** for solving the NP-Hard problem, Travelling Salesman Problem 
 
 ---
 
-## Fun Facts
-
-- 🍵 **Team Matcha** 
-- 🛸 Dreams of working on **AI for space exploration**
-- 🧬 Loves sci-fi films, homeric greek, niche literature (nothing gives you an exsistential crisis like good old copy of kafka)
-- 🍓 Nerds out over ancient mythology & futuristic tech equally
-- 🪷 My other hobbies include kathak and I've been pursuing carnatic vocal since I was four
-
----
-
-## 💖 Connect with me 
+## Connect with me 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskritishelke/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/san5kriti)
