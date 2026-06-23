@@ -1,72 +1,90 @@
+<div align="center">
 
+# Sanskriti Shelke Rao
 
-<h1 align="center">Hey there, I'm Sanskriti Shelke 🧬🎀🔭💗☕️ </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20ML%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20;Open%20Source%20Contributor%20%7C%20Author%20%7C%20Astrophile&width=600&color=de7fa1&vCenter=true&size=20" />
-</p>
- <td>
-      <p align="right">
-    
-</td>
+**MSc Advanced Computing (AI) · Durham University · Graduating September 2026**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanskritishelke.vercel.app-black?style=flat-square)](https://sanskritishelke.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanskritishelke-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskritishelke/)
+[![Email](https://img.shields.io/badge/Email-sanskritishelke.r@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanskritishelke.r@gmail.com)
 
-
-
-## About Me
-
-I’m an AI & Computer Science graduate from the University of Birmingham and am currently pursuing my masters in advanced computing (AI specialisation) at Durham University. I am passionate about building technology that merges science with creativity. My work spans **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing**, where I explore how computation shapes the universe and how it can empower humans. 🌍
-
-I'm fascinated by **optimization problems**, **quantum-inspired algorithms**, and **intelligent systems**. Whether it's crafting software solutions or narrating tales through podcasts, my work blends technical depth with artistic expression.
-
-🧠 **Core passions**  
-- Hybrid AI-Quantum Systems  
-- Space Tech & Astrophysics  
-- Applied AI in Scientific Discovery  
-- Storytelling for Science Communication  
-- Open Source & Community-led Projects
+</div>
 
 ---
 
-##  What I do 👩🏼‍🚀
+## Profile
 
-- 🦾 **Aspiring AI Developer:** From classical ML models to cutting-edge deep learning & reinforcement learning agents.
-- 🥼 **Quantum Explorer:** Simulating quantum circuits & algorithms, blending classical and quantum techniques for NP-hard problems. -- Dropping new paper on meta-hybridisation for quantum-inspired and classical optimization tech!!
-- 🛠️ **Full-Stack Developer:** Crafting responsive UIs & scalable backends using modern JavaScript stacks.
-- 🎙️ **Podcast Host:** On _Metamorphoses_, I break down how science, philosophy, and tech shape our world.
-- 🖋️ **Science Writer:** Passionate about making tech & science accessible, clear, and captivating.
+AI researcher and full-stack developer with a focus on quantum-classical hybrid systems, NLP, and production machine learning. Enrolled at the University of Birmingham aged 16 on an International Excellence Scholarship; graduated with a dissertation grade of 78% on quantum-inspired optimisation for NP-hard problems. Currently completing an MSc at Durham University with research extending that work into quantum network routing under physically-motivated noise models.
+
+Five deployed projects across ML, full-stack, and scientific visualisation. 
+---
+
+## Research
+
+### MSc Dissertation — Durham University (2026)
+**Quantum-Inspired Metaheuristics for Entanglement Distribution Optimisation in Terrestrial Quantum Networks**
+
+Comparative study of quantum-inspired heuristics for entanglement routing across three network topologies. Extends BSc quantum-classical hybrid work with rigorous statistical benchmarking and physically-motivated noise parameters (depolarising and amplitude damping). Benchmarked against classical baselines including Dijkstra-based shortest-path routing.
+
+### BSc Dissertation — University of Birmingham (2025) · Grade: 78%
+**Meta-Hybrid Quantum-Classical Optimisation for the Travelling Salesman Problem**
+
+Designed eight novel hybrid solvers combining classical heuristics (Nearest Insertion, Christofides, Clarke-Wright, Random Insertion) with quantum-inspired techniques via IBM Qiskit. Developed QAOA-based partial tour generation, quantum local refinement stages, and bi-directional hybrid architectures. Tuned via COBYLA optimisation; surpassed classical-only baselines across multiple performance domains. *Paper forthcoming.*
+
+### NLP Research — Durham University (2026)
+**Privacy Policy Classification System**
+
+Multi-label classification pipeline using TF-IDF + One-vs-Rest Linear SVM achieving Macro F1 ≈ 0.70. Extended with LLM-based classification via Mistral 7B, comparing zero-shot vs. few-shot prompting across five hyperparameter configurations. Identified key failure modes including over-prediction and category ambiguity.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## Current Quests 
-
-- 📖 **DEPLOYED Virtual Library**: A calm study space with incorporated ambience sounds, task tracker and pomodoro study method!
-- 🏛️ **Building PHILATOS**: A mythology dictionary with Greek-inspired animations & storytelling
-- 🌌 **Orbitron**: An interactive space exploration app blending data visualization & astrophysics education
-- 🧠 **DEPLOYED MemoryMate**: A smart micro-coach designed to help students boost focus & optimize study routines
-- 🔖 **Reading Ulysses** 900 pages of epiphanies, greek myth analogies and layered paradoxes? I'm so in.
-- 🎙️ **Releasing episode 2 of _Metamorphoses Podcast_**  
-- 🪐 **Deploying Paper on Novel Quantum-Classical hybrids** for solving the NP-Hard problem, Travelling Salesman Problem 
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [**GARGANTUA.exe**](https://blackhole-visualiser.vercel.app/) | Physically-based black hole visualiser with custom GLSL raymarching shaders, Schwarzschild & Kerr geodesic rendering | Three.js · WebGL · GLSL | Live |
+| [**MindByte**](https://mindbyte.vercel.app) | AI flashcard generator designed for neurodivergent study flows | React · Next.js |  Live |
+| **Virtual Library** | Ambient study environment with Pomodoro timer and task tracker | TypeScript · React |  Live |
+| **HealthMate** | Android health companion for adults 65+ with LLM-powered conversation, medication reminders, and one-tap SOS | Kotlin · OpenAI API · Google Maps API |  Complete |
+| **Orbitron** | AI astronomy application with interactive star charts and real-time satellite tracking | TypeScript |  Deploying Aug 2026 |
 
 ---
 
-## Connect with me 
+## Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskritishelke/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/san5kriti)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/san5kriti)
-[![Personal Website](https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=planet&logoColor=white)](https://sanskritishelke.com/)
+**Languages** · Python · TypeScript · JavaScript · SQL · Java · Haskell · Kotlin · HTML · CSS
 
+**Frameworks & Tools** · React · Next.js · Three.js · Scikit-learn · TensorFlow · Qiskit (IBM) · Git/GitHub · Android Studio · NumPy · Pandas · Matplotlib · COBYLA
 
+**Domains** · Machine Learning · NLP · Quantum Algorithms · Full-Stack Development · Scientific Visualisation · UI/UX Design · Agile Project Management
+
+---
+
+## Publications & Writing
+
+1. *Meta-Hybrid Classical-Quantum-Inspired Optimisation for the TSP: A Comparative Analysis* — Sanskriti Shelke Rao *(forthcoming)*
+2. *AI's Looming Threat: Bioweapon Development Requires Urgent Regulation* — Redbrick, University of Birmingham
+3. *The White Hole Paradox: Black Holes, White Holes, and the Wormhole Enigma*
+4. *Python's Influence on the Development of Other Programming Languages* — Redbrick, University of Birmingham
+
+---
+
+## Education
+
+**Durham University** · MSc Advanced Computing – AI Specialisation · Sept 2025 – Sept 2026
+Modules: Quantum Computing · Deep Learning · NLP · Recommender Systems · Algorithms & Complexity *(100%)* · Human-AI Interaction
+
+**University of Birmingham** · BSc (Hons) Artificial Intelligence & Computer Science · Sept 2022 – Jun 2025
+International Excellence Scholarship · Enrolled age 16 · Dissertation grade: 78%
+
+---
+
+## Certifications & Awards
+
+- IBM Basics of Quantum Information
+- IBM Variational Algorithm Design
+- Goldman Sachs Software Engineering Virtual Programme
+- Red Hat Agile Project Management
+- EAGLES Award for Achievement, Good Leadership and Service — Ministry of Education, Singapore
+- Young Engineer Award — Singapore Polytechnic
+- International Excellence Scholarship — University of Birmingham
